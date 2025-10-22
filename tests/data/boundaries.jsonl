@@ -1,0 +1,2 @@
+{"resourceLogs":[{"scopeLogs":[{"logRecords":[{"timeUnixNano":"1577836800000000000","body":{"stringValue":"At start boundary: 2020-01-01T00:00:00Z"}}]}]}]}
+{"resourceLogs":[{"scopeLogs":[{"logRecords":[{"timeUnixNano":"1609459199999000000","body":{"stringValue":"At end boundary: 2020-12-31T23:59:59.999Z"}}]}]}]}
